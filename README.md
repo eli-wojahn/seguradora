@@ -1,5 +1,5 @@
 <h1 align="center">
-  :car: Seguradora - Rvenda Avenida
+  :car: Seguradora - Revenda Avenida
 </h1>
 <br>
 
